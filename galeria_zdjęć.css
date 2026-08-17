@@ -1,0 +1,34 @@
+header {
+    height:15%;
+    width:100%;
+    background-color:bisque;
+    }
+
+main {
+    background-color:burlywood;
+    height: 70%;
+    width:100%;
+    text-align:center;
+    }
+
+section {
+    height:15%;
+    width:100%;
+    background-color:bisque;
+    text-align:center;
+    padding: 40px;
+    }
+
+.malyobraz {
+    height: 120px;
+    width:200px;
+    }
+
+.duzyobraz {
+    scale:1.2;
+    margin-top:150px;
+    }
+    
+#ikona {
+    margin-top: 3%;
+    }
